@@ -1,6 +1,5 @@
 streamlit
-requests
-beautifulsoup4
-langchain
+langchain==0.0.331
 openai
-faiss-cpu
+python-dotenv
+tiktoken
