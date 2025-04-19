@@ -32,7 +32,7 @@ You will need an OpenAI API Key to generate answers.
 
 ## 🌐 Deployed App
 
-👉 [Click here to access the app](https://your-username.streamlit.app/web-content-qa-tool) *(replace with your Streamlit app link)*
+👉 [Click here to access the app](https://bgweb-content-app-tool-pwmrvyuf2hylbqd7p3kdu6.streamlit.app/) *(replace with your Streamlit app link)*
 
 ---
 
