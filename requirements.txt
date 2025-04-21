@@ -1,5 +1,4 @@
 streamlit
-langchain==0.0.331
-openai
-python-dotenv
-tiktoken
+requests
+beautifulsoup4
+google-generativeai
